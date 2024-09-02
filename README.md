@@ -15,6 +15,6 @@ Path Finding and TSP Solver with Python.
 
 # Requerimientos
 
-Python 3.10 o superior (https://www.python.org/downloads/).
-tsplib95.
-matplotlib.
+- Python 3.10 o superior (https://www.python.org/downloads/)
+- tsplib95
+- matplotlib
