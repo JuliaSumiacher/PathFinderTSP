@@ -1,17 +1,17 @@
 # PATH FINDING y TSP
 
-TSP Solver with Python.
+Path Finding and TSP Solver with Python.
 
-# Algoritmos implementados
+# Algorithms
 
-Deep First Search (DFS)
-Breadth First Search (BFS)
-Graph Breadth First Search (GBFS)
-A Star (A*)
-Uniform Cost Search (UCS)
-Hill Climbing
-Random Restart Hill Climbing
-Tabu Search
+*Deep First Search (DFS)
+*Breadth First Search (BFS)
+*Graph Breadth First Search (GBFS)
+*A Star (A*)
+*Uniform Cost Search (UCS)
+*Hill Climbing
+*Random Restart Hill Climbing
+*Tabu Search
 
 # Requerimientos
 
